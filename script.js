@@ -21,7 +21,6 @@ function initialiseGame() {
       String.fromCharCode(i + 65)
     );
 
-    // selectedWord = words.shift().toUpperCase();
     selectedWord = words[0];
 
     // display word as dashes on the screen
